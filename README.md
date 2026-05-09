@@ -26,6 +26,13 @@ The dashboard also includes a rule-based smart charging logic that recommends op
 
 ---
 
+## 📷 Dashboard Screenshot
+
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+---
+
+
 ## 🎯 Key Features
 
 ### 🔌 Multi-Charger Simulation
@@ -41,4 +48,4 @@ Live dashboard built with Streamlit and Plotly.
 Power is calculated using:
 
 ```text
-Power (kW) = Voltage × Current / 1000
+Power (kW) = Voltage × Current / 1000   
