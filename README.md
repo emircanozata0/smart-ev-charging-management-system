@@ -26,9 +26,15 @@ The dashboard also includes a rule-based smart charging logic that recommends op
 
 ---
 
-## 📷 Dashboard Screenshot
+## 📷 Dashboard Screenshots
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot 1](screenshots/1.png)
+
+![Dashboard Screenshot 2](screenshots/2.png)
+
+![Dashboard Screenshot 3](screenshots/3.png)
+
+![Dashboard Screenshot 4](screenshots/4.png)
 
 ---
 
