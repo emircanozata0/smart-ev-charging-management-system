@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/charging_log.csv
+.env
+.venv/
+venv/
